@@ -1,10 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fetal Health Prediction</title>
-</head>
 <body>
     <h1>Fetal Health Prediction</h1>
     <p>
@@ -14,7 +8,7 @@
         The dataset contains three target values [1, 2, 3], representing different fetal health states.
     </p>
 
-    <h2>Features</h2>
+<h2>Features</h2>
     <ul>
         <li>Multinomial Logistic Regression: Applied for multiclass classification.</li>
         <li>Random Forest Classifier: Utilized for robust predictions with ensemble learning.</li>
@@ -23,7 +17,7 @@
         <li>Evaluation metrics for comparing model performance.</li>
     </ul>
 
-    <h2>Dataset</h2>
+<h2>Dataset</h2>
     <p>The dataset contains features related to fetal health, such as:</p>
     <ul>
         <li>Baseline FHR (fetal heart rate)</li>
@@ -40,7 +34,7 @@
         </ol>
     </p>
 
-    <h2>Usage</h2>
+<h2>Usage</h2>
     <ol>
         <li>Clone the repository:
             <pre><code>git clone https://github.com/MUNEEB502/fetal-health-prediction.git</code></pre>
@@ -57,31 +51,30 @@
         </li>
     </ol>
 
-    <h2>Results</h2>
+<h2>Results</h2>
     <ul>
-        <li><strong>Multinomial Logistic Regression:</strong> Accuracy: XX% (add metrics).</li>
-        <li><strong>Random Forest:</strong> Accuracy: XX% (add metrics).</li>
-        <li><strong>Decision Tree:</strong> Accuracy: XX% (add metrics).</li>
+        <li><strong>Multinomial Logistic Regression:</strong> Accuracy: 0.8753% .</li>
+        <li><strong>Random Forest:</strong> Accuracy: 0.9148% .</li>
+        <li><strong>Decision Tree:</strong> Accuracy: 0.8927% .</li>
     </ul>
     <p>Visualization of results is embedded within the notebook for better insights.</p>
 
-    <hr>
+<hr>
     <h2>CONTRIBUTING</h2>
     <p>
         Contributions are welcome! If you'd like to contribute to this project, 
         please fork the repository and submit a pull request.
     </p>
 
-    <hr>
-    <h2>AUTHOR</h2>
-    <p><strong>Muneeb Ur Rehman</strong></p>
-    <p>GitHub: <a href="https://github.com/Muneeb502" target="_blank">Muneeb502</a></p>
+<hr>
 
-    <hr>
-    <h2>🔗 Links</h2>
-    <ul>
-        <li><a href="https://www.linkedin.com/in/muneeb-ur-rehman-99580b277/" target="_blank">LinkedIn Profile</a></li>
-    </ul>
+ MUNEEB UR REHMAN   (MUNEEB502)
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/muneeb-ur-rehman-99580b277)
+
+
 </body>
 </html>
 
